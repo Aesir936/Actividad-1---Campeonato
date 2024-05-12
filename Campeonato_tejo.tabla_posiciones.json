@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "664035139a26bb7addad8c41"
+  },
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c13"
+  },
+  "puntos": 3,
+  "partidos_ganados": 1,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1
+},
+{
+  "_id": {
+    "$oid": "664035139a26bb7addad8c42"
+  },
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c14"
+  },
+  "puntos": 6,
+  "partidos_ganados": 2,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 0
+},
+{
+  "_id": {
+    "$oid": "664035139a26bb7addad8c43"
+  },
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c15"
+  },
+  "puntos": 4,
+  "partidos_ganados": 1,
+  "partidos_empatados": 1,
+  "partidos_perdidos": 1
+},
+{
+  "_id": {
+    "$oid": "664035139a26bb7addad8c44"
+  },
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c16"
+  },
+  "puntos": 4,
+  "partidos_ganados": 1,
+  "partidos_empatados": 1,
+  "partidos_perdidos": 1
+},
+{
+  "_id": {
+    "$oid": "664035139a26bb7addad8c45"
+  },
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c17"
+  },
+  "puntos": 3,
+  "partidos_ganados": 1,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 2
+},
+{
+  "_id": {
+    "$oid": "664035139a26bb7addad8c46"
+  },
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c18"
+  },
+  "puntos": 3,
+  "partidos_ganados": 1,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 2
+}]

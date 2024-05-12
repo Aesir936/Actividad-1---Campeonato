@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "664031549a26bb7addad8c3c"
+  },
+  "encuentro_id": {
+    "$oid": "66402f929a26bb7addad8c37"
+  },
+  "resultado_equipo_local": 10,
+  "resultado_equipo_visitante": 8
+},
+{
+  "_id": {
+    "$oid": "664031549a26bb7addad8c3d"
+  },
+  "encuentro_id": {
+    "$oid": "66402f929a26bb7addad8c38"
+  },
+  "resultado_equipo_local": 12,
+  "resultado_equipo_visitante": 6
+},
+{
+  "_id": {
+    "$oid": "664031549a26bb7addad8c3e"
+  },
+  "encuentro_id": {
+    "$oid": "66402f929a26bb7addad8c39"
+  },
+  "resultado_equipo_local": 9,
+  "resultado_equipo_visitante": 11
+},
+{
+  "_id": {
+    "$oid": "664031549a26bb7addad8c3f"
+  },
+  "encuentro_id": {
+    "$oid": "66402f929a26bb7addad8c3a"
+  },
+  "resultado_equipo_local": 8,
+  "resultado_equipo_visitante": 10
+},
+{
+  "_id": {
+    "$oid": "664031549a26bb7addad8c40"
+  },
+  "encuentro_id": {
+    "$oid": "66402f929a26bb7addad8c3b"
+  },
+  "resultado_equipo_local": 7,
+  "resultado_equipo_visitante": 9
+}]

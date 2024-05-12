@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c19"
+  },
+  "nombre": "Jugador 1",
+  "edad": 28,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c13"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c1a"
+  },
+  "nombre": "Jugador 2",
+  "edad": 28,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c13"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c1b"
+  },
+  "nombre": "Jugador 3",
+  "edad": 28,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c13"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c1c"
+  },
+  "nombre": "Jugador 4",
+  "edad": 28,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c13"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c1d"
+  },
+  "nombre": "Jugador 5",
+  "edad": 28,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c13"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c1e"
+  },
+  "nombre": "Jugador 6",
+  "edad": 30,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c14"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c1f"
+  },
+  "nombre": "Jugador 7",
+  "edad": 30,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c14"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c20"
+  },
+  "nombre": "Jugador 8",
+  "edad": 30,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c14"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c21"
+  },
+  "nombre": "Jugador 9",
+  "edad": 30,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c14"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c22"
+  },
+  "nombre": "Jugador 10",
+  "edad": 30,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c14"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c23"
+  },
+  "nombre": "Jugador 11",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c15"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c24"
+  },
+  "nombre": "Jugador 12",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c15"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c25"
+  },
+  "nombre": "Jugador 13",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c15"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c26"
+  },
+  "nombre": "Jugador 14",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c15"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c27"
+  },
+  "nombre": "Jugador 15",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c15"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c28"
+  },
+  "nombre": "Jugador 16",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c16"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c29"
+  },
+  "nombre": "Jugador 17",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c16"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c2a"
+  },
+  "nombre": "Jugador 18",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c16"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c2b"
+  },
+  "nombre": "Jugador 19",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c16"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c2c"
+  },
+  "nombre": "Jugador 20",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c16"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c2d"
+  },
+  "nombre": "Jugador 21",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c17"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c2e"
+  },
+  "nombre": "Jugador 22",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c17"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c2f"
+  },
+  "nombre": "Jugador 23",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c17"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c30"
+  },
+  "nombre": "Jugador 24",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c17"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c31"
+  },
+  "nombre": "Jugador 25",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c17"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c32"
+  },
+  "nombre": "Jugador 26",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c18"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c33"
+  },
+  "nombre": "Jugador 27",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c18"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c34"
+  },
+  "nombre": "Jugador 28",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c18"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c35"
+  },
+  "nombre": "Jugador 29",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c18"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402bf09a26bb7addad8c36"
+  },
+  "nombre": "Jugador 30",
+  "edad": 26,
+  "equipo_id": {
+    "$oid": "66402a809a26bb7addad8c18"
+  }
+}]

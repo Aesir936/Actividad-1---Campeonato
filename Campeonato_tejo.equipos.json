@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66402a809a26bb7addad8c13"
+  },
+  "nombre": "A"
+},
+{
+  "_id": {
+    "$oid": "66402a809a26bb7addad8c14"
+  },
+  "nombre": "B"
+},
+{
+  "_id": {
+    "$oid": "66402a809a26bb7addad8c15"
+  },
+  "nombre": "C"
+},
+{
+  "_id": {
+    "$oid": "66402a809a26bb7addad8c16"
+  },
+  "nombre": "D"
+},
+{
+  "_id": {
+    "$oid": "66402a809a26bb7addad8c17"
+  },
+  "nombre": "E"
+},
+{
+  "_id": {
+    "$oid": "66402a809a26bb7addad8c18"
+  },
+  "nombre": "F"
+}]

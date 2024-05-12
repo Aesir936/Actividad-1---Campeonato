@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "66402f929a26bb7addad8c37"
+  },
+  "equipo_local": {
+    "$oid": "66402a809a26bb7addad8c13"
+  },
+  "equipo_visitante": {
+    "$oid": "66402a809a26bb7addad8c14"
+  },
+  "fecha": {
+    "$date": "2024-04-01T10:00:00.000Z"
+  },
+  "arbitro_id": {
+    "$oid": "6640243a9a26bb7addad8c0e"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402f929a26bb7addad8c38"
+  },
+  "equipo_local": {
+    "$oid": "66402a809a26bb7addad8c15"
+  },
+  "equipo_visitante": {
+    "$oid": "66402a809a26bb7addad8c16"
+  },
+  "fecha": {
+    "$date": "2024-04-01T10:00:00.000Z"
+  },
+  "arbitro_id": {
+    "$oid": "6640243a9a26bb7addad8c0f"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402f929a26bb7addad8c39"
+  },
+  "equipo_local": {
+    "$oid": "66402a809a26bb7addad8c17"
+  },
+  "equipo_visitante": {
+    "$oid": "66402a809a26bb7addad8c18"
+  },
+  "fecha": {
+    "$date": "2024-04-01T10:00:00.000Z"
+  },
+  "arbitro_id": {
+    "$oid": "6640243a9a26bb7addad8c10"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402f929a26bb7addad8c3a"
+  },
+  "equipo_local": {
+    "$oid": "66402a809a26bb7addad8c13"
+  },
+  "equipo_visitante": {
+    "$oid": "66402a809a26bb7addad8c15"
+  },
+  "fecha": {
+    "$date": "2024-04-01T10:00:00.000Z"
+  },
+  "arbitro_id": {
+    "$oid": "6640243a9a26bb7addad8c11"
+  }
+},
+{
+  "_id": {
+    "$oid": "66402f929a26bb7addad8c3b"
+  },
+  "equipo_local": {
+    "$oid": "66402a809a26bb7addad8c14"
+  },
+  "equipo_visitante": {
+    "$oid": "66402a809a26bb7addad8c16"
+  },
+  "fecha": {
+    "$date": "2024-04-01T10:00:00.000Z"
+  },
+  "arbitro_id": {
+    "$oid": "6640243a9a26bb7addad8c12"
+  }
+}]

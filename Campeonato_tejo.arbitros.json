@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6640243a9a26bb7addad8c0e"
+  },
+  "nombre": "Juan Pérez",
+  "edad": 35,
+  "categoria": "Departamental"
+},
+{
+  "_id": {
+    "$oid": "6640243a9a26bb7addad8c0f"
+  },
+  "nombre": "María Gómez",
+  "edad": 40,
+  "categoria": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "6640243a9a26bb7addad8c10"
+  },
+  "nombre": "Carlos Rodríguez",
+  "edad": 28,
+  "categoria": "Departamental"
+},
+{
+  "_id": {
+    "$oid": "6640243a9a26bb7addad8c11"
+  },
+  "nombre": "Ana Martínez",
+  "edad": 32,
+  "categoria": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "6640243a9a26bb7addad8c12"
+  },
+  "nombre": "Pedro Sánchez",
+  "edad": 45,
+  "categoria": "Nacional"
+}]
